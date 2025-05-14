@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\APIArkanoid.bundle.scp.css",
+      "PackagePath": "staticwebassets\\APIArkanoid.4qhh2wi5eu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\79393\\Downloads\\Telegram Desktop\\Arkanoid-master\\Arkanoid-master\\API\\APIArkanoid\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.APIArkanoid.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.APIArkanoid.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.APIArkanoid.props",
+      "PackagePath": "build\\APIArkanoid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.APIArkanoid.props",
+      "PackagePath": "buildMultiTargeting\\APIArkanoid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.APIArkanoid.props",
+      "PackagePath": "buildTransitive\\APIArkanoid.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
